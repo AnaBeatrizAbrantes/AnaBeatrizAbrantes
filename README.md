@@ -1,7 +1,7 @@
 <div align="center" fontsize = "">
 Hi there, i'm Ana Beatriz Abrantes!
 
-<b>I'm a beginner developer!!</b> 
+<b align="center">I'm a beginner developer!!</b> 
  <br>
   <br>
 ### My skills: :computer: :rocket:

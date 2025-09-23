@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<div align="center">
+<div align="center" fontsize = "">
 ### Hi there :sunglasses:I'm Ana Beatriz Abrantes!
 
 <b>I'm a beginner developer!</b> 
  <br>
   <br>
-:mortar_board:<b>Full Stack developer training at <a href="https://rodolfomori.com.br/devclub/">DevClub</a></b>
 ### My skills: :computer: :rocket:
 <br>
 

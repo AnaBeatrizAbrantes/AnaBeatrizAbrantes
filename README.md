@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 <div align="center">
 ### Hi there :sunglasses:I'm Ana Beatriz Abrantes!
 
@@ -34,4 +33,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Nasciment0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudson-Nasciment0)
--->
+

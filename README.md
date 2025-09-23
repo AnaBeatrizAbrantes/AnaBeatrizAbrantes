@@ -32,5 +32,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudson-Nasciment0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaBeatrizAbrantes)
 

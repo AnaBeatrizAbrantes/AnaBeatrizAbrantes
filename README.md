@@ -1,13 +1,13 @@
 <div align="center" fontsize = "">
 Hi there, i'm Ana Beatriz Abrantes!
 
-<b>I'm a beginner developer!</b> 
+<b>I'm a beginner developer!!</b> 
  <br>
   <br>
 ### My skills: :computer: :rocket:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
  <br>
  
 ### 🛠️</a>Development tools:

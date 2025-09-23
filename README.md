@@ -1,5 +1,5 @@
 <div align="center" fontsize = "">
-### Hi there :sunglasses:I'm Ana Beatriz Abrantes!
+Hi there :sunglasses:I'm Ana Beatriz Abrantes!
 
 <b>I'm a beginner developer!</b> 
  <br>

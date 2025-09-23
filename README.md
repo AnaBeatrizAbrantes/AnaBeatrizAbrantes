@@ -16,11 +16,7 @@ Hi there, i'm Ana Beatriz Abrantes!
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)](https://skillicons.dev)
 
 
-<br>
-
-### Connect to with me:  :calling: :email: :mailbox:
-
-
+### Connect with me:  
 <a href="insta link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" logo-insta"/></a>
 
 <a href="lindin linlk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" logo-linkedin"/></a>

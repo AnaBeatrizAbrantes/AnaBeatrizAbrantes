@@ -30,7 +30,7 @@
 
 <a href="https://wa.me/qr/MRQRPVTBFOUWL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=" logo-linkedin"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Nasciment0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudson-Nasciment0)
 

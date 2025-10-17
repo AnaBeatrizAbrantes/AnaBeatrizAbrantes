@@ -57,9 +57,3 @@
 ---
 
 <p align="center"> “Still learning. Still growing. Still coding.” </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnaBeatrizAbrantes&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
-
-

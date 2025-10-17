@@ -51,11 +51,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizAbrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizAbrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---

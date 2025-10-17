@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>💻 I'm a beginner developer exploring the world of code!</b><br>
-  🌙 Passionate about creativity, design and technology.
+   Passionate about creativity, design and technology.
 </p>
 
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-<p align="center">✨ “Code with curiosity, build with passion.” ✨</p>
+<p align="center"> “Still learning. Still growing. Still coding.” </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnaBeatrizAbrantes&color=blueviolet&style=flat-square" alt="Profile Views"/>

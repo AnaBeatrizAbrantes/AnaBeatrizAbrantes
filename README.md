@@ -1,29 +1,65 @@
-<div align="center" fontsize = "">
-Hi there, i'm Ana Beatriz Abrantes!
+<h2 align="center">👋 Hi there, I'm Ana Beatriz Abrantes!</h2>
 
-<b align="center">I'm a beginner developer!!</b> 
- <br>
-  <br>
-### My skills: :computer: :rocket:
-<br>
+<p align="center">
+  <b>💻 I'm a beginner developer exploring the world of code!</b><br>
+  🌙 Passionate about creativity, design and technology.
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
- <br>
- 
-### 🛠️</a>Development tools:
-<br>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)](https://skillicons.dev)
+<h3 align="center">💡 My Skills</h3>
 
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a>
+</p>
 
-### Connect with me:  
-<a href="https://www.instagram.com/beatriz._.zzr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" logo-insta"/></a>
+---
 
-<a href="https://www.linkedin.com/in/ana-beatriz-abrantes-da-silva-b5ab68356"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" logo-linkedin"/></a>
+<h3 align="center">🧰 Development Tools</h3>
 
-<a href="whatzap me"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=" logo-linkedin"/></a>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes)
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaBeatrizAbrantes)
+<h3 align="center">📫 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/beatriz._.zzr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ana-beatriz-abrantes-da-silva-b5ab68356">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/55SEUNUMEROAQUI">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizAbrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">✨ “Code with curiosity, build with passion.” ✨</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnaBeatrizAbrantes&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
 

@@ -1,8 +1,12 @@
-<h2 align="center">👋 Hi there, I'm Ana Beatriz Abrantes!</h2>
+<div align="center">
+  <h2>
+    Hello there, I'm Ana Beatriz Abrantes! 
+    <img src="https://camo.githubusercontent.com/0825c1ba3a7472c16200be5951bc02d103be03e25c0a9401f5bda5f66bebeb91/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f323834322d73747265737365647073796475636b2e706e67" alt="Psyduck" width="40"/>
+  </h2>
+</div>
 
 <p align="center">
-  <b>💻 I'm a beginner developer exploring the world of code!</b><br>
-   Passionate about creativity, design and technology.
+  <b>💻 I'm a beginner developer!</b>
 </p>
 
 ---

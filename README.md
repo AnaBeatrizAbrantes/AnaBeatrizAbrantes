@@ -8,7 +8,6 @@
 <p align="center">
   <b>💻 I'm a beginner developer and a Software Engineering student!</b>
 </p>
----
 
 <h3 align="center">💡 My Skills</h3>
 

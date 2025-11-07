@@ -56,4 +56,3 @@
 
 ---
 
-<p align="center"> “Still learning. Still growing. Still coding.” </p>

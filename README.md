@@ -17,7 +17,6 @@
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a>
 </p>
 
----
 
 <h3 align="center">🧰 Development Tools</h3>
 

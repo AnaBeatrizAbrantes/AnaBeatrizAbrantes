@@ -18,7 +18,6 @@
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a>
 </p>
 
-
 <h3 align="center">🧰 Development Tools</h3>
 
 <p align="center">
@@ -27,7 +26,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>
 </p>
-
 
 <h3 align="center">📫 Connect with me</h3>
 
@@ -48,12 +46,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatrizabrantes&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizAbrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anabeatrizabrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
----
 

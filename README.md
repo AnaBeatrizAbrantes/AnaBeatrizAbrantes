@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>
+  <h1>
     Hello there, I'm Ana Beatriz Abrantes! 
     <img src="https://down-br.img.susercontent.com/file/br-11134201-22120-lddmshcsrelv6e" alt="Psyduck" width="60"/>
-  </h2>
+  </h1>
 </div>
 
 <p align="center">

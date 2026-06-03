@@ -50,16 +50,16 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <!-- Card de Status Geral -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizAbrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <!-- Status Geral (Usando o username minúsculo que costuma ser a chave padrão da API) -->
+  <img src="https://github-readme-stats.vercel.co/api?username=anabeatrizabrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br><br>
-  <!-- Card de Linguagens mais usadas (Escondendo Python para focar no Front) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes&layout=compact&theme=tokyonight&hide=python" alt="Top Languages"/>
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=anabeatrizabrantes&layout=compact&theme=tokyonight&hide=python" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
   <i>"Even strength must bow to wisdom sometimes."</i> <br>
-  <b>— Rick Riordan </b>
+  <b>— Annabeth Chase, The Lightning Thief</b>
 </p>

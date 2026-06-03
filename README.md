@@ -50,10 +50,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <!-- Status Geral (Usando o username minúsculo que costuma ser a chave padrão da API) -->
   <img src="https://github-readme-stats.vercel.co/api?username=anabeatrizabrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br><br>
-  <!-- Linguagens Mais Usadas -->
+
   <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=anabeatrizabrantes&layout=compact&theme=tokyonight&hide=python" alt="Top Languages"/>
 </p>
 

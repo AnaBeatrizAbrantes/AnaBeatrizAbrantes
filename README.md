@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <b>Software Engineering Student & Aspiring Front-End Developer</b>
+  <b>💻 Software Engineering Student & Aspiring Front-End Developer</b>
 </p>
 
 <p align="center">
@@ -50,15 +50,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.co/api?username=AnaBeatrizAbrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <!-- Servidor alternativo super estável para os cards -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatrizAbrantes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br><br>
-
-  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=AnaBeatrizAbrantes&layout=compact&theme=tokyonight&hide=python" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaBeatrizAbrantes&layout=compact&theme=tokyonight&hide=python" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
   <i>"Even strength must bow to wisdom sometimes."</i> <br>
-  <b>— Annabeth Chase, The Lightning Thief</b>
+  <b>— Rick Riordan </b>
 </p>
